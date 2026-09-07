@@ -76,6 +76,31 @@ The cleaned dataset was successfully exported as `titanic_cleaned.csv`.
 - **GitHub**
 
 ---
+## 🔍 Key Learnings
+
+- Learned how to identify and handle missing values using Pandas.
+- Learned how to fill missing values using median and mode.
+- Learned how to remove unnecessary columns.
+- Learned how to check duplicate records.
+- Learned how to standardize column names.
+- Learned how to create a clean and analysis-ready dataset.
+- Learned how to use Git and GitHub for version control.
+
+## 👩‍💻 Author
+
+**Aliza Ali**
+
+B.Tech Student | Aspiring Data Scientist
+
+GitHub: https://github.com/AlizaAli5661
+
+## 📌 Internship
+
+This project was completed as part of the:
+
+**Synent Technologies – Data Science Internship**
+
+**Task 1: Data Cleaning & Preprocessing**
 
 
 ## 📂 Project Structure
@@ -88,33 +113,5 @@ synent_task1_datacleaning/
 ├── titanic_cleaning.py
 └── README.md
 
----
-## 🔍 Key Learnings
 
-- Learned how to identify and handle missing values using Pandas.
-- Learned how to fill missing values using median and mode.
-- Learned how to remove unnecessary columns.
-- Learned how to check duplicate records.
-- Learned how to standardize column names.
-- Learned how to create a clean and analysis-ready dataset.
-- Learned how to use Git and GitHub for version control.
 
----
-
-## 👩‍💻 Author
-
-**Aliza Ali**
-
-B.Tech Student | Aspiring Data Scientist
-
-GitHub: https://github.com/AlizaAli5661
-
----
-
-## 📌 Internship
-
-This project was completed as part of the:
-
-**Synent Technologies – Data Science Internship**
-
-**Task 1: Data Cleaning & Preprocessing**
